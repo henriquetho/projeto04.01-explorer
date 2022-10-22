@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-> Projeto 04
+> Projeto 04-01
 
 Projeto desenvolvido durante o curso Explorer da Rocketseat, no último desafio do módulo Formulários, Validações e Customizações. Nesse desafio era preciso recriar um layout de formulário utilizando o que foi aprendido no curso.
 
