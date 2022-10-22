@@ -8,7 +8,7 @@ Projeto desenvolvido durante o curso Explorer da Rocketseat, no último desafio 
 
 
 
-[Clique aqui para acessar](https://henriquetho.github.io/projeto04-explorer/)
+[Clique aqui para acessar](https://henriquetho.github.io/projeto04.01-explorer/)
 
 ## Tecnologias
 
